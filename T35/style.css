@@ -1,0 +1,13 @@
+.bodysuit{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+.header{
+    margin-bottom: 20px;
+}
+
+h1{
+    color: rgb(8, 116, 116);
+}
